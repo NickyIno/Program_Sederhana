@@ -1,2 +1,2 @@
-# KonversiSuhu
-Ya buat konversikan suhu
+# Proyek Sederhanaku
+kapan-kapan bikin proyek gede deh
