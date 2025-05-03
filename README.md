@@ -1,6 +1,6 @@
 # Project Sederhana
 
-**Project Sederhana** adalah kumpulan proyek Python sederhana yang dirancang untuk membantu memahami konsep dasar pemrograman Python. Proyek ini mencakup beberapa aplikasi kecil dengan fungsi masing-masing.
+**Project Sederhana** adalah kumpulan proyek Python sederhana yang dirancang untuk membantu memahami konsep dasar pemrograman Python. Proyek ini mencakup beberapa program kecil dengan fungsi masing-masing.
 
 ## Daftar Proyek
 
