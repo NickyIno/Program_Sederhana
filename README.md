@@ -25,3 +25,12 @@
 2. Clone repository ini ke perangkat Anda:
    ```bash
    git clone https://github.com/InoPySE/Project_Sederhana.git
+
+## Lisensi
+
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
+
+Kode dalam repositori ini dirilis di bawah lisensi **CC0 1.0 Universal (Public Domain Dedication)**.  
+Anda bebas untuk menyalin, memodifikasi, mendistribusikan, dan menggunakan kode ini untuk tujuan apa pun, tanpa harus mencantumkan nama pembuat.
+
+🔗 [Baca lebih lanjut tentang lisensi CC0](https://creativecommons.org/publicdomain/zero/1.0/)
