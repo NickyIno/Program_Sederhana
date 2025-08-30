@@ -1,8 +1,8 @@
-# Project Sederhana
+# Program Sederhana
 
-**Project Sederhana** adalah kumpulan proyek Python sederhana yang dirancang untuk membantu memahami konsep dasar pemrograman Python. Proyek ini mencakup beberapa program kecil dengan fungsi masing-masing.
+**Program Sederhana** adalah kumpulan program Python sederhana yang dirancang untuk membantu memahami konsep dasar pemrograman Python. Program ini mencakup beberapa program kecil dengan fungsi masing-masing.
 
-## Daftar Proyek
+## Daftar Program
 
 1. **KalkultorBMI.py**
    - Sebuah kalkulator sederhana untuk menghitung Indeks Massa Tubuh (BMI).
